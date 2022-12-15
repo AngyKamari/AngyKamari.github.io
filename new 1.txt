@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>ΟΔΗΓΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ</title>
+  <style>
+  body{
+  font-family:Verdana;
+  font-size :20px;
+  background-color:#efefef;
+  }
+header, footer{
+       text-align:center;
+	   margin:15px;
+	   }
+h1{
+	   font-size:30px;
+	   color:blue;
+	   padding-bottom:5px;
+	   border-bottom:2px solid red;
+	   }
+	   h2{font-size:25px;
+color:orange;}
+figure{
+float:left;
+padding:0px;
+margin:0px;
+}
+figcaption{
+font-size:12px;
+text-align:center;}
+img{
+width:350px;
+border-radius:10%;
+margin-top:5px;
+margin-right:25px;
+box-shadow:0px 0px 35px -px rgba (0, 0, 0, 0.75;}
+p{
+padding-top:5px;
+line-height:1.5em;
+width:95%;
+}
+    </style>
+  </head>
+<body> 
+<header>
+
+<main>
+<h1>ΤΟΥΡΙΣΤΙΚΟΣ ΟΔΗΓΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ</h1>
+<h2><u>ΑΞΙΟΘΕΑΤΑ -ΔΙΑΣΚΕΔΑΣΗ- ΧΡΗΣΙΜΕΣ ΠΛΗΡΟΦΟΡΙΕΣ</u></h2>
+</header>
+<figure>
+<img src="Thess.png"
+ title="θεσσαλονικη πολη"> 
+
+<figcaption>ΘΕΣΣΑΛΟΝΙΚΗΣ
+</figcaption>
+</figure>
+<p>Η Θεσσαλονίκη είναι η μεγαλύτερη σε έκταση και πληθυσμό πόλη της Μακεδονίας. Αποτελεί την έδρα του Δήμου Θεσσαλονίκης και της μητροπολιτικής περιοχής της Θεσσαλονίκης, του πολεοδομικού συγκροτήματος Θεσσαλονίκης καθώς και την έδρα της Περιφέρειας Κεντρικής Μακεδονίας και της Αποκεντρωμένης Διοίκησης Μακεδονίας - Θράκης. Πολιούχος της πόλης είναι ο μεγαλομάρτυρας Άγιος Δημήτριος.</p>
+  <div>class="container p2 my-2 bg-primary
+    text-white text-center'>
+    H1 <ΕΙΣΑΓΩΓΗ ΣΤΟ BOOSTRAP</Η1>
+    <P>ΤΑ ΒΑΣΙΚΑ ΣΤΟΙΧΕΙΑ </P>
+    
+    <DIV CLASS="ROW P-2 M-2">
+    </DIV>
+    <DIV CLASS="COL-SM-4">
+<img class="img-fluid" scr"foto.jpg" alt="θεσσαλονικη"
+<P>Η «ΟΜΟΡΦΗ ΠΟΛΗ-2020» η τελευταία θεατρική – μουσική παράσταση του Μίκη Θεοδωράκη, σε απόδοση-σκηνοθεσία Γιώργου Βάλαρη, η θεατρική–μουσική υπερπαραγωγή που υμνήθηκε από κοινό και κριτικούς, μετά τις sold out παραστάσεις στο Μέγαρο Μουσικής Αθηνών – Θεσσαλονίκης και στο Ηρώδειο, καθώς ήταν προγραμματισμένο, επιστρέφει για λίγες παραστάσεις σε Αθήνα και Θεσσαλονίκη.</p>
+      </DIV>
+     <DIV CLASS="COL-SM-8">
+      </DIV>
+</main>
+</body>
+</html>
